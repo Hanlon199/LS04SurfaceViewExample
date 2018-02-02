@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LS04-SurfaceViewExample</string>
+    <string name="send">Send Message</string>
+    <string name="title_activity_recieve_message">Recieve Message</string>
+    <string name="activity_label"></string>
+    <string name="chooser">Send Message...</string>
+</resources>
